@@ -93,8 +93,6 @@
                     android:id="@+id/row_subtitle_due_date"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:ellipsize="end"
-                    android:singleLine="true"
                     android:textColor="@color/edx_brand_gray_accent"
                     android:textDirection="locale"
                     android:textSize="@dimen/edx_small"
